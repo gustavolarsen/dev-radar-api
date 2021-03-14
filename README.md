@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
-</h1>
+</p>
 
 ## DEV RADAR API
 
@@ -21,4 +21,4 @@ Este repositório em específico tem apenas o código do back-end. Para acessar 
 
 ## Licença
 
-Estr projeto está sob a licença MIT - acesse [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+Estr projeto está sob a licença MIT - acesse [LICENSE](https://github.com/gustavolarsen/dev-radar-api/blob/main/LICENSE) para mais detalhes.
